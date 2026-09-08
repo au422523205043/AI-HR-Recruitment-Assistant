@@ -1,9 +1,8 @@
 streamlit
-langchain
+openai
+pypdf
+langchain-core
 langchain-openai
 langchain-community
-langchain-text-splitters
 faiss-cpu
-pypdf
-python-dotenv
-pydantic
+tiktoken
